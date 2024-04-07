@@ -1,5 +1,5 @@
 # Rivers_in_Srilanka
-![alt text]([https://github.com/milos-agathon/mapping-river-basins-with-r/blob/main/brazil-basins.png?raw=true](https://github.com/Saratha84/Rivers_in_Srilanka/blob/main/Sl_rivers.png))
+![alt text](https://github.com/milos-agathon/mapping-river-basins-with-r/blob/main/brazil-basins.png?raw=true](https://github.com/Saratha84/Rivers_in_Srilanka/blob/main/Sl_rivers.png)
 🌊 Exploring the waterways of Sri Lanka! 🚣‍♂️ Check out this captivating visualization showcasing the rivers in Sri Lanka. Using geographic data and advanced plotting techniques, I've created a stunning map that highlights the intricate network of water bodies across the island nation.
 
 🗺️ The plot provides a comprehensive view of river basins and their widths, allowing us to appreciate the diverse hydrological landscape of Sri Lanka. With vibrant colors representing different river basins and varying widths indicating river sizes, this visualization offers valuable insights into the country's water resources.
